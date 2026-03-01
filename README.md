@@ -26,6 +26,3 @@ pip install pyshorteners qrcode
 ## Usage
 ```bash
 python sad-mask.py
-
-##SADFRIENDS
-##
